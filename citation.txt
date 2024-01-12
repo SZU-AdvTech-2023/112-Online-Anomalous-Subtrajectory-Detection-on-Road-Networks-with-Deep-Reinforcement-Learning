@@ -1,0 +1,7 @@
+@inproceedings{REPO112,
+    author = "Zhang, Qianru and Wang, Zheng and Long, Cheng and Huang, Chao and Yiu, Siu-Ming and Liu, Yiding and Cong, Gao and Shi, Jieming",
+    booktitle = "2023 IEEE 39th International Conference on Data Engineering (ICDE)",
+    pages = "246--258",
+    title = "{Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning}",
+    year = "2023"
+}
